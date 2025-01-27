@@ -1,6 +1,3 @@
-from pyexpat import features
-
-from requests.packages import target
 from src import model_linear, preprocessing
 import pandas as pd
 
